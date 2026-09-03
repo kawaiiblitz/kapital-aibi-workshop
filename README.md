@@ -2,12 +2,6 @@
   <img src="assets/banner.png" alt="Taller AI/BI en Databricks — Kapital Bank" width="100%">
 </p>
 
-# Taller AI/BI en Databricks — Kapital Bank
-
-Material del taller hands-on de **AI/BI Dashboards y Genie**. Todo corre en tu propio
-workspace de Databricks con un esquema sintético de banca (clientes, tarjetas,
-transacciones, cobranza).
-
 ## Contenido
 
 | Ruta | Qué es |
