@@ -5,3 +5,4 @@ guion-presentador.html
 _build_guion.py
 _banner.html
 _banner_build.py
+_gen_data.py
